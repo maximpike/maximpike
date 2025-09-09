@@ -2,7 +2,7 @@
 
 
 ## 💻 My Tech Stack:
-[![Java, Python, AWS, ](https://skillicons.dev/icons?i=java,python,aws,terraform,ansible,spring)](https://skillicons.dev)
+[![Java, Python, Javascript, AWS, Terraform, Ansible, Spring](https://skillicons.dev/icons?i=java,python,javascript,aws,terraform,ansible,spring&theme=light)](https://skillicons.dev)
 
 
 
