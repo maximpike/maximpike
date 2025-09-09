@@ -5,6 +5,8 @@
 [![Java, Python, AWS, ](https://skillicons.dev/icons?i=java,python,aws,terraform,ansible,spring)](https://skillicons.dev)
 
 
+
+<!--
 ## 🏆 My Stats:
 
 <p>
@@ -14,7 +16,7 @@
 
 *   Compact layout
 *   
-<!--
+
 **maximpike/maximpike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
