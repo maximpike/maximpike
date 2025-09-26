@@ -12,7 +12,7 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
   
   <img src="https://skillicons.dev/icons?i=java,python,javascript,aws,terraform,ansible,spring&theme=light" width="400">
 </div>
-<br><br><br>  
+<br><br><br><br>  
 
 ## 🚀 What I’m up to:
 - 🔭 Currently working on backend and infrastructure projects, mixing **Java**, **Python**, and **AWS**.
