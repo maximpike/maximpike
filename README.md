@@ -1,21 +1,27 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&width=700&lines=Hi+there+👋;I'm+Max+—+Software+Engineer+👨‍💻;Currently+living+on+Spring+beans+🫘;+And+espresso+shots+☕)](https://git.io/typing-svg)
+
+## About Me: 🍀
 
 I’m Max — a Software Engineer with over 3 years of experience building backend systems, automating infrastructure, and streamlining data-driven processes.  
 I enjoy solving tough problems with clean, scalable solutions, and I’ve worked across fintech, DevOps, and cloud environments.  
 
----
+## My Tech Stack 💻
 
-## 💻 My Tech Stack:
-[![Java, Python, Javascript, AWS, Terraform, Ansible, Spring](https://skillicons.dev/icons?i=java,python,javascript,aws,terraform,ansible,spring&theme=light)](https://skillicons.dev)
-
----
+<table>
+<tr>
+  <td>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,aws,terraform,ansible,spring&theme=light" width="300"/>
+  </td>
+  <td>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  </td>
+</tr>
+</table>
 
 ## 🚀 What I’m up to:
 - 🔭 Currently working on backend and infrastructure projects, mixing **Java**, **Python**, and **AWS**.  
-- 🌱 Learning more about **cloud-native architectures** and **DevOps best practices**.  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/maximpike)  
 
----
 
 <!--
 ## 🏆 My Stats:
@@ -39,4 +45,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🌱 Learning more about **cloud-native architectures** and **DevOps best practices**.  
 -->
