@@ -7,20 +7,16 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
 
 ## My Tech Stack 💻
 
-<table>
-<tr>
-  <td>
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,aws,terraform,ansible,spring&theme=light" width="300"/>
-  </td>
-  <td>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-  </td>
-</tr>
-</table>
+<div align="left">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" **hspace="100"**>
+  
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,aws,terraform,ansible,spring&theme=light" width="400">
+</div>
+<br><br><br>  
 
 ## 🚀 What I’m up to:
-- 🔭 Currently working on backend and infrastructure projects, mixing **Java**, **Python**, and **AWS**.  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/maximpike)  
+- 🔭 Currently working on backend and infrastructure projects, mixing **Java**, **Python**, and **AWS**.
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/maximpike)
 
 
 <!--
