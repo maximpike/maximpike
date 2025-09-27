@@ -16,7 +16,7 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
 
 ## 🚀 What I’m up to:
 - 🔭 Currently working on backend and infrastructure projects, mixing **Java**, **Python**, and **AWS**.
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/maximpike)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/maxpike1e6/)
 
 
 <!--
