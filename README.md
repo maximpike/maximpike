@@ -2,7 +2,7 @@
 
 ## About Me: 🍀
 
-I’m Max — a Software Engineer with over 3 years of experience building backend systems, automating infrastructure, and streamlining data-driven processes.  
+I’m Max — a Software Engineer with over 3 years of experience building backend & frontend systems, automating infrastructure, and streamlining data-driven processes.  
 I enjoy solving tough problems with clean, scalable solutions, and I’ve worked across fintech, DevOps, and cloud environments.  
 
 ## My Tech Stack 💻
