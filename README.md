@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&width=700&lines=Hi+there+👋;I'm+Max+—+Software+Engineer+👨‍💻;Currently+living+on+Spring+beans+🫘;+And+espresso+shots+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&width=700&lines=Hi+there+👋;I'm+Max+—+Software+Engineer+👨‍💻)](https://git.io/typing-svg)
 
-## About Me: 🍀
+## About Me 🍀
 
 I’m Max — a Software Engineer with over 3 years of experience building backend & frontend systems, automating infrastructure, and streamlining data-driven processes.  
 I enjoy solving tough problems with clean, scalable solutions, and I’ve worked across fintech, DevOps, and cloud environments.  
@@ -43,4 +43,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 🌱 Learning more about **cloud-native architectures** and **DevOps best practices**.  
+
+Notes:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&width=700&lines=Hi+there+👋;I'm+Max+—+Software+Engineer+👨‍💻;Currently+living+on+Spring+beans+🫘;+And+espresso+shots+☕)](https://git.io/typing-svg)
+
 -->
