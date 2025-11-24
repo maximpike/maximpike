@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&width=700&lines=Hi+there+👋;I'm+Max+—+Software+Engineer+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&width=700&lines=Hi+there+👋;)](https://git.io/typing-svg)
 
 ## About Me 🍀
 
