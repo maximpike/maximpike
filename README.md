@@ -10,12 +10,13 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
 <div align="left">
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" **hspace="100"**>
   
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,aws,terraform,ansible,spring&theme=light" width="400">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,aws,terraform,ansible,spring,react&theme=light" width="400">
 </div>
 <br><br><br><br>  
 
 ## 🚀 What I’m up to:
 - 🔭 Currently working on backend and infrastructure projects, mixing **Java**, **Python**, and **AWS**.
+- 🌱 See my Portfolio [here](https://www.maximilianpike.dev/)
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/maxpike1e6/)
 
 
