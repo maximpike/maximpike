@@ -10,9 +10,9 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
 <div align="left">
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" **hspace="100"**>
   
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,postgresql,sqlite,aws,gcp,docker,terraform,ansible,spring&theme=light" width="600">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,postgresql,sqlite,aws,gcp,docker,terraform,ansible,spring&theme=light" width="550">
   <br><br>  
-  <img src="https://skillicons.dev/icons?i=vite,react,fastapi&theme=light" width="130">
+  <img src="https://skillicons.dev/icons?i=vite,react,fastapi&theme=light" width="145">
 </div>
 <br><br><br><br>  
 
