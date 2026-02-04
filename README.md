@@ -11,6 +11,7 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" **hspace="100"**>
   
   <img src="https://skillicons.dev/icons?i=java,python,javascript,postgresql,sqlite,aws,gcp,docker,terraform,ansible,spring,vite,react,fastapi&theme=light" width="600">
+  <br><br>  
   <img src="https://skillicons.dev/icons?i=vite,react,fastapi&theme=light" width="130">
 </div>
 <br><br><br><br>  
