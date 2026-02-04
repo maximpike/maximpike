@@ -2,7 +2,7 @@
 
 ## About Me 🍀
 
-I’m Max — a Software Engineer with over 3 years of experience building backend & frontend systems, automating infrastructure, and streamlining data-driven processes.  
+I’m Max — a Software Engineer with over 4 years of experience building backend & frontend systems, automating infrastructure, and streamlining data-driven processes.  
 I enjoy solving tough problems with clean, scalable solutions, and I’ve worked across fintech, DevOps, and cloud environments.  
 
 ## My Tech Stack 💻
@@ -10,7 +10,7 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
 <div align="left">
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" **hspace="100"**>
   
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,aws,terraform,ansible,spring,react&theme=light" width="400">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,postgresql,sqlite,aws,gcp,docker,terraform,ansible,spring,vite,react,fastapi&theme=light" width="700">
 </div>
 <br><br><br><br>  
 
