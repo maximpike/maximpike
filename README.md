@@ -3,6 +3,7 @@
 ## About Me 🍀
 
 I’m Max — a Software Engineer with over 4 years of experience building backend & frontend systems, automating infrastructure, and streamlining data-driven processes.  
+
 I enjoy solving tough problems with clean, scalable solutions, and I’ve worked across fintech, DevOps, and cloud environments.  
 
 ## My Tech Stack 💻
@@ -17,10 +18,9 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
 <br><br><br><br>  
 
 ## 🚀 What I’m up to:
-- 🔭 Currently working on backend and infrastructure projects, mixing **Java**, **Python**, and **AWS**.
-- 🌱 See my Portfolio [here](https://www.maximilianpike.dev/)
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/maxpike1e6/)
-
+- 🔭 Currently working on fullstack and AI projects, mixing **Java**, **Python**, **Javascript**, and **AWS/GCP**.
+- 🌱 See my Portfolio <a href="https://www.maximilianpike.dev/" target="_blank">here</a>
+- 📫 Reach me via <a href="https://www.linkedin.com/in/maxpike1e6/" target="_blank">LinkedIn</a>
 
 <!--
 ## 🏆 My Stats:
@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 - 🌱 Learning more about **cloud-native architectures** and **DevOps best practices**.  
 
 Notes:
