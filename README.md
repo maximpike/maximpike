@@ -3,7 +3,7 @@
 ## About Me 🍀
 I’m Max — a Software Engineer with over 5 years of experience building backend & frontend systems, automating infrastructure, and streamlining data-driven processes.  
 
-I enjoy solving tough problems with clean, scalable solutions, and I’ve worked across fintech, DevOps, and cloud environments.  
+I enjoy solving tough problems with clean, scalable solutions, and I’ve worked across fintech, DevOps, and cloud environments — these days focused on the investment & asset management world.  
 
 ## My Tech Stack 💻
 <div align="left">
@@ -37,11 +37,11 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
 - 🌱 Portfolio: <a href="https://www.maximilianpike.dev/" target="_blank">maximilianpike.dev</a>
 - 📫 Reach me on <a href="https://www.linkedin.com/in/maxpike1e6/" target="_blank">LinkedIn</a>
 
-## 🏆 My Stats:
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maximpike&show_icons=true&count_private=true&theme=light" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximpike&layout=compact&theme=light" />&nbsp;&nbsp;
-</p>
+## 🚀 What I'm up to:
+- 💼 Software Engineer at **Havelock London**, an asset management firm — building internal tooling and data-driven systems.
+- 🔭 Building **vanilla-rag-lab** — a from-scratch playground for retrieval-augmented generation (RAG) pipelines.
+- 🌱 See my Portfolio <a href="https://www.maximilianpike.dev/" target="_blank">here</a>
+- 📫 Reach me via <a href="https://www.linkedin.com/in/maxpike1e6/" target="_blank">LinkedIn</a>
 
 ## Stats 🏆
 <p align="left">
@@ -49,8 +49,6 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
   <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximpike&layout=compact" />
 </p>
  
-
-
 <!--
 Here are some ideas to get you started:
 
