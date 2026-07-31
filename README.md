@@ -2,7 +2,32 @@
 
 ## About Me 🍀
 I’m Max — a Software Engineer at [Havelock London](https://www.havelocklondon.com/), an asset management firm, where I build internal web tooling and manage the in-house asset & investment management software.  
+
 With 5+ years experience across backend & frontend systems, infrastructure automation, and data-driven processes. I enjoy solving tough problems with clean, scalable solutions.
+
+## Tech Stack 💻
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="30%">
+      <b>Languages</b><br>
+      <img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Java, Python, JavaScript" /><br><br>
+      <b>Backend</b><br>
+      <img src="https://skillicons.dev/icons?i=spring,fastapi" alt="Spring, FastAPI" /><br><br>
+      <b>Databases</b><br>
+      <img src="https://skillicons.dev/icons?i=postgresql,sqlite" alt="PostgreSQL, SQLite" />
+    </td>
+    <td valign="top" width="30%">
+      <b>Frontend</b><br>
+      <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap" alt="React, Vue, Vite, Bootstrap" /><br><br>
+      <b>Cloud &amp; DevOps</b><br>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible&perline=4" alt="AWS, GCP, Azure, Docker, Kubernetes, Terraform, Ansible" />
+    </td>
+    <td valign="middle" align="center" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+    </td>
+  </tr>
+</table>
 
 
 ## My Tech Stack 💻
@@ -15,35 +40,25 @@ With 5+ years experience across backend & frontend systems, infrastructure autom
 </div>
 <br><br><br><br>  
 
-## Tech Stack 💻
- 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Java, Python, JavaScript" />
- 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap" alt="React, Vue, Vite, Bootstrap" />
- 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=spring,fastapi" alt="Spring, FastAPI" />
- 
-**Databases**  
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" alt="PostgreSQL, SQLite" />
- 
-**Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible" alt="AWS, GCP, Azure, Docker, Kubernetes, Terraform, Ansible" />
-
 ## What I’m up to 🚀
 - 💼 Software Engineer at **Havelock London**, an asset management firm — building internal tooling and data-driven systems.
 - 🔭 Building **vanilla-rag-lab** — a from-scratch playground for retrieval-augmented generation (RAG) pipelines.
 - 🌱 Portfolio: <a href="https://www.maximilianpike.dev/" target="_blank">maximilianpike.dev</a>
 - 📫 Reach me on <a href="https://www.linkedin.com/in/maxpike1e6/" target="_blank">LinkedIn</a>
 
+<!--
 ## Stats 🏆
 <p align="left">
-  <img height="175" alt="Max's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maximpike&show_icons=true&count_private=true" />
-  <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximpike&layout=compact" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-beige-42.vercel.app/api?username=maximpike&show_icons=true&count_private=true&theme=github_dark" />
+    <img height="175" alt="Max's GitHub stats" src="https://github-readme-stats-seven-beige-42.vercel.app/api?username=maximpike&show_icons=true&count_private=true&theme=default" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-beige-42.vercel.app/api/top-langs/?username=maximpike&layout=compact&theme=github_dark" />
+    <img height="175" alt="Top languages" src="https://github-readme-stats-seven-beige-42.vercel.app/api/top-langs/?username=maximpike&layout=compact&theme=default" />
+  </picture>
 </p>
- 
+ -->
 <!--
 Here are some ideas to get you started:
 
