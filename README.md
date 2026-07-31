@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=2F81F7&width=700&lines=Hi+there+👋;I'm+Max+—+Software+Engineer+👨‍💻)](https://www.maximilianpike.dev/)
 
 ## About Me 🍀
-I’m Max — a Software Engineer with over 5 years of experience building backend & frontend systems, automating infrastructure, and streamlining data-driven processes.  
+I’m Max — a Software Engineer at [Havelock London](https://www.havelocklondon.com/), an asset management firm, where I build internal web tooling and manage the in-house asset & investment management software.  
+With 5+ years experience across backend & frontend systems, infrastructure automation, and data-driven processes. I enjoy solving tough problems with clean, scalable solutions.
 
-I enjoy solving tough problems with clean, scalable solutions, and I’ve worked across fintech, DevOps, and cloud environments — these days focused on the investment & asset management world.  
 
 ## My Tech Stack 💻
 <div align="left">
@@ -21,7 +21,7 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
 <img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Java, Python, JavaScript" />
  
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,vite" alt="React, Vite" />
+<img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap" alt="React, Vue, Vite, Bootstrap" />
  
 **Backend**  
 <img src="https://skillicons.dev/icons?i=spring,fastapi" alt="Spring, FastAPI" />
@@ -30,18 +30,13 @@ I enjoy solving tough problems with clean, scalable solutions, and I’ve worked
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite" alt="PostgreSQL, SQLite" />
  
 **Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,ansible" alt="AWS, GCP, Docker, Terraform, Ansible" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible" alt="AWS, GCP, Azure, Docker, Kubernetes, Terraform, Ansible" />
 
 ## What I’m up to 🚀
-- 🔭 Building fullstack and AI projects across **Java**, **Python**, **JavaScript**, and **AWS/GCP**
-- 🌱 Portfolio: <a href="https://www.maximilianpike.dev/" target="_blank">maximilianpike.dev</a>
-- 📫 Reach me on <a href="https://www.linkedin.com/in/maxpike1e6/" target="_blank">LinkedIn</a>
-
-## 🚀 What I'm up to:
 - 💼 Software Engineer at **Havelock London**, an asset management firm — building internal tooling and data-driven systems.
 - 🔭 Building **vanilla-rag-lab** — a from-scratch playground for retrieval-augmented generation (RAG) pipelines.
-- 🌱 See my Portfolio <a href="https://www.maximilianpike.dev/" target="_blank">here</a>
-- 📫 Reach me via <a href="https://www.linkedin.com/in/maxpike1e6/" target="_blank">LinkedIn</a>
+- 🌱 Portfolio: <a href="https://www.maximilianpike.dev/" target="_blank">maximilianpike.dev</a>
+- 📫 Reach me on <a href="https://www.linkedin.com/in/maxpike1e6/" target="_blank">LinkedIn</a>
 
 ## Stats 🏆
 <p align="left">
