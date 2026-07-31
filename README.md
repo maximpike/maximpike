@@ -5,40 +5,15 @@ I’m Max — a Software Engineer at [Havelock London](https://www.havelocklondo
 
 With 5+ years experience across backend & frontend systems, infrastructure automation, and data-driven processes. I enjoy solving tough problems with clean, scalable solutions.
 
-## Tech Stack 💻
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="30%">
-      <b>Languages</b><br>
-      <img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Java, Python, JavaScript" /><br><br>
-      <b>Backend</b><br>
-      <img src="https://skillicons.dev/icons?i=spring,fastapi" alt="Spring, FastAPI" /><br><br>
-      <b>Databases</b><br>
-      <img src="https://skillicons.dev/icons?i=postgresql,sqlite" alt="PostgreSQL, SQLite" />
-    </td>
-    <td valign="top" width="30%">
-      <b>Frontend</b><br>
-      <img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap" alt="React, Vue, Vite, Bootstrap" /><br><br>
-      <b>Cloud &amp; DevOps</b><br>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible&perline=4" alt="AWS, GCP, Azure, Docker, Kubernetes, Terraform, Ansible" />
-    </td>
-    <td valign="middle" align="center" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
-    </td>
-  </tr>
-</table>
-
-
-## My Tech Stack 💻
-<div align="left">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" **hspace="100"**>
-  
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,postgresql,sqlite,aws,gcp,docker,terraform,ansible,spring&theme=light" width="550">
-  <br><br>  
-  <img src="https://skillicons.dev/icons?i=vite,react,fastapi&theme=light" width="145">
+## Tech Stack 💻 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" /> 
+  &nbsp;&nbsp; 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Placeholder — swap for a second image" /> 
+  <br><br> 
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,vue,vite,bootstrap,spring,fastapi,postgresql,sqlite,aws,gcp,azure,docker,kubernetes,terraform,ansible&perline=9" alt="Tech stack" /> 
 </div>
-<br><br><br><br>  
 
 ## What I’m up to 🚀
 - 💼 Software Engineer at **Havelock London**, an asset management firm — building internal tooling and data-driven systems.
